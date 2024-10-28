@@ -1,0 +1,9 @@
+usuario
+daniel@rfa
+
+contraseña
+123
+
+tiene que presionar la tecla X del teclado como dice en pantalla para que se inicie y ponga los datos
+
+presione donde dice reproducir musica para que se encienda asi en todos los apartados 
